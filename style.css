@@ -1083,7 +1083,6 @@ button:hover {
           height: auto; 
           max-height: 250px;
           zoom:1;
-          align-items: center;
       }
 
 }
